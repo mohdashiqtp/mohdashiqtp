@@ -8,6 +8,7 @@ Web Developer - Full Stack
 *   🤝  I'm open to collaborating on Everything.
 *   ⚡  I'm secretly spiderman, but don't tell any one.
 *   Personal Website: https://portfolio-green-ten-75.vercel.app/.
+* 
  ![](https://komarev.com/ghpvc/?username=mohdashiqtp)
  
 <img src="https://img.shields.io/github/followers/mohdashiqtp?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
@@ -24,17 +25,13 @@ Web Developer - Full Stack
 [![GitHub](https://img.shields.io/github/followers/IrfanshaikH-7?label=Follow&style=social)](https://github.com/mohdashiqtp)
 Welcome to my GitHub profile! I'm Muhammed ashik, a tech wizard who enjoys weaving spells of code to create magic in the digital realm. With a passion for coding and technology, I strive to build versatile projects that showcase my skills and interests. In this README, I will provide a comprehensive self-introduction, analyze my GitHub profile, and highlight my best projects.
 
-## My Projects
-
-
 
 ## Contact Me
 
 If you'd like to get in touch with me or know more about my projects, feel free to reach out. Here's how you can contact me:
 
 - Email: ashuqmuhammed79@gmail.com
-- LinkedIn: TO-BE Updated.
-- Twitter: TO-BE Update.
+- Mobile: 9072553698
 - Personal Website: https://portfolio-green-ten-75.vercel.app/.
 
 I am open to collaboration, job opportunities, and connecting with fellow developers. Feel free to connect and let's create magic together!
@@ -42,7 +39,7 @@ I am open to collaboration, job opportunities, and connecting with fellow develo
 ## GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohdashiqtp)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mohdashiqtp-7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mohdashiqtp)](https://git.io/streak-stats)
 
 ## Wrapping Up
 
