@@ -7,7 +7,7 @@ Web Developer - Full Stack
 *   🧠  I'm  NextJs , MERN Developer
 *   🤝  I'm open to collaborating on Everything.
 *   ⚡  I'm secretly spiderman, but don't tell any one.
-*   <a href="https://www.github.com/IrfanshaikH-7" target="_blank" rel="noreferrer">
+*   Personal Website: https://portfolio-green-ten-75.vercel.app/.
  ![](https://komarev.com/ghpvc/?username=mohdashiqtp)
  
 <img src="https://img.shields.io/github/followers/mohdashiqtp?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
