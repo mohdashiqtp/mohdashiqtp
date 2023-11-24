@@ -6,7 +6,6 @@ Web Developer - Full Stack
 
 *   🧠  I'm  NextJs , MERN Developer
 *   🤝  I'm open to collaborating on Everything.
-*   ⚡  I'm secretly spiderman, but don't tell any one.
 *   Personal Website: https://portfolio-green-ten-75.vercel.app/.
 * 
  ![](https://komarev.com/ghpvc/?username=mohdashiqtp)
