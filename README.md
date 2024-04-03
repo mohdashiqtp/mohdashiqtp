@@ -6,7 +6,7 @@ Web Developer - Full Stack
 
 *   🧠  I'm  NextJs , MERN Developer
 *   🤝  I'm open to collaborating on Everything.
-*   Personal Website: portfolio-mohdashiqtp.vercel.app
+*   Personal Website: https://portfolio-mohdashiqtp.vercel.app
 * 
  ![](https://komarev.com/ghpvc/?username=mohdashiqtp)
  
