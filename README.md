@@ -19,7 +19,6 @@ Web Developer - Full Stack
 
 
 ## GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohdashiqtp)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mohdashiqtp)](https://git.io/streak-stats)
 
