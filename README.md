@@ -4,8 +4,8 @@
 Web Developer - Full Stack
 --------------------------
 
-*   🧠  I'm  NextJs , MERN Developer
-*   🤝  I'm open to collaborating on Everything.
+*   🧠  MERN Developer
+*   🤝  open to collaborating on Everything.
   
  ![](https://komarev.com/ghpvc/?username=mohdashiqtp)
  
