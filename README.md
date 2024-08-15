@@ -7,8 +7,6 @@ Web Developer
   
  ![](https://komarev.com/ghpvc/?username=mohdashiqtp)
  
-<img src="https://img.shields.io/github/followers/mohdashiqtp?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
- </a>
 
  
 ### Skills 
