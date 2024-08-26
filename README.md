@@ -1,5 +1,5 @@
 
-Web Developer 
+Full Stack Developer 
 --------------------------
 
 *   🧠  MERN , Nextjs Developer
