@@ -3,7 +3,7 @@ Full Stack Developer
 
 *   🧠  MERN , Nextjs Developer
 *   🤝  open to collaborating on Everything
-*   
+  
   
  ![](https://komarev.com/ghpvc/?username=mohdashiqtp)
  
