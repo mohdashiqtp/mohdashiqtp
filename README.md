@@ -5,7 +5,7 @@ Full Stack Developer
 *   🤝  open to collaborating on Everything
   
   
- (https://komarev.com/ghpvc/?username=mohdashiqtp)
+ [](https://komarev.com/ghpvc/?username=mohdashiqtp)
  
 
  
