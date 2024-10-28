@@ -7,7 +7,7 @@ Full Stack Developer
   
  [](https://komarev.com/ghpvc/?username=mohdashiqtp)
  
-
+ 
  
  Skills 
 <p align="left">
